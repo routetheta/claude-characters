@@ -46,7 +46,7 @@
 ## キャラクター設定ファイル
 
 ### 保存場所
-`/home/ubuntu/.claude/characters/<キャラクター名>.md`
+`~/.claude/characters/<キャラクター名>.md`
 
 ### ファイル形式
 ```markdown
